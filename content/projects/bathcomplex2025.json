@@ -1,0 +1,18 @@
+{
+  "id": "bathcomplex2025",
+  "title": "Банный комплекс г. Калининград",
+  "category": "exterior",
+  "meta": "Экстерьеры · 2025",
+  "location": "г. Калининград · 2025",
+  "description": "Визуализация банного комплекса в природном окружении Калининграда. Архитектура выполнена из натурального дерева и массивного бревна, а просторные террасы объединяют зону отдыха с ландшафтом. В серии кадров показаны фасады, входная группа, благоустройство территории и общая атмосфера комплекса.",
+  "cover": "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-01.jpg",
+  "gallery": [
+    "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-01.jpg",
+    "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-02.jpg",
+    "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-03.jpg",
+    "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-04.jpg",
+    "assets/projects/exterior-visualization/bath-complex-kaliningrad-2025/frame-05.jpg"
+  ],
+  "tour_url": "",
+  "order": 9
+}

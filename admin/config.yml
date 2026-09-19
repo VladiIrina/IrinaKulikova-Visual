@@ -1,0 +1,110 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: assets/uploads
+public_folder: /assets/uploads
+
+locale: ru
+
+collections:
+  - name: projects
+    label: Проекты портфолио
+    label_singular: Проект
+    folder: content/projects
+    create: true
+    extension: json
+    format: json
+    identifier_field: title
+    slug: '{{fields.id}}'
+    sortable_fields:
+      - order
+      - title
+      - category
+    summary: '{{order}} · {{title}} · {{category}}'
+
+    fields:
+      - label: ID проекта
+        name: id
+        widget: string
+        hint: 'Уникальный латинский ID, например apartment-sochi-2026.'
+
+      - label: Порядок
+        name: order
+        widget: number
+        value_type: float
+        default: 99
+        hint: 'Меньшее число — выше в портфолио.'
+
+      - label: Категория
+        name: category
+        widget: select
+        options:
+          - label: Интерьеры
+            value: interior
+          - label: Экстерьеры
+            value: exterior
+          - label: Модели мебели
+            value: furniture
+          - label: Анимация
+            value: animation
+          - label: 3D-туры
+            value: tour
+
+      - label: Тип интерьера
+        name: interior_type
+        widget: select
+        required: false
+        options:
+          - label: Жилые интерьеры
+            value: residential
+          - label: Коммерческие интерьеры
+            value: commercial
+
+      - label: Название проекта
+        name: title
+        widget: string
+
+      - label: Город / место / год
+        name: location
+        widget: string
+        required: false
+
+      - label: Подпись категории
+        name: meta
+        widget: string
+        required: false
+
+      - label: Описание
+        name: description
+        widget: text
+        required: false
+
+      - label: Обложка
+        name: cover
+        widget: image
+        required: false
+
+      - label: Видео анимации
+        name: animation_video
+        widget: file
+        required: false
+
+      - label: Галерея проекта
+        name: gallery
+        widget: list
+        required: false
+        allow_add: true
+        allow_remove: true
+        allow_reorder: true
+        collapsed: true
+        summary: 'Кадр {{index}}'
+        field:
+          label: Изображение
+          name: image
+          widget: image
+
+      - label: Ссылка на 3D-тур
+        name: tour_url
+        widget: string
+        required: false

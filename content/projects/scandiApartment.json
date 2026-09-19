@@ -1,0 +1,30 @@
+{
+  "id": "scandiApartment",
+  "title": "Визуализация квартиры в скандинавском стиле",
+  "category": "interior",
+  "meta": "Интерьеры · 2026",
+  "location": "Интерьерная визуализация",
+  "description": "Светлый интерьер квартиры в скандинавском стиле: спокойная нейтральная палитра, натуральное дерево, графичные чёрные детали, мягкий дневной свет и уютные вечерние сценарии.",
+  "cover": "assets/projects/interior-visualization/scandinavian-apartment/frame-01.jpg",
+  "gallery": [
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-01.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-02.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-03.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-04.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-05.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-06.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-07.webp",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-08.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-09.webp",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-10.webp",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-11.webp",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-12.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-13.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-14.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-15.jpg",
+    "assets/projects/interior-visualization/scandinavian-apartment/frame-16.webp"
+  ],
+  "tour_url": "https://kuula.co/share/collection/7DTd0?logo=1&info=1&fs=1&vr=0&sd=1&thumbs=1",
+  "order": 5,
+  "interior_type": "residential"
+}

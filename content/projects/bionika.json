@@ -1,0 +1,20 @@
+{
+  "id": "bionika",
+  "title": "Спальня в ЖК «Бионика»",
+  "category": "interior",
+  "meta": "Интерьеры · 2026",
+  "location": "г. Уфа · 2026",
+  "description": "Тёплая современная спальня в мягкой бежевой гамме: выразительное изголовье, натуральное дерево, ритм реечных панелей, декоративное панно и деликатное сценарное освещение.",
+  "cover": "assets/projects/bionika-bedroom/frame-01.jpg",
+  "gallery": [
+    "assets/projects/bionika-bedroom/frame-01.jpg",
+    "assets/projects/bionika-bedroom/frame-02.jpg",
+    "assets/projects/bionika-bedroom/frame-03.jpg",
+    "assets/projects/bionika-bedroom/frame-04.jpg",
+    "assets/projects/bionika-bedroom/frame-05.webp",
+    "assets/projects/bionika-bedroom/frame-06.jpg"
+  ],
+  "tour_url": "",
+  "order": 3,
+  "interior_type": "residential"
+}

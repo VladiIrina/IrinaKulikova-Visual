@@ -1,0 +1,12 @@
+{
+  "id": "xTower",
+  "title": "ЖК «X-TOWER»",
+  "category": "tour",
+  "meta": "3D-тур · 2026",
+  "location": "г. Грозный · 2026",
+  "description": "Интерактивный 3D-тур квартиры ЖК «X-TOWER» с панорамами гостиной, кухни, спальни, ванной, прихожей и лоджии, а также навигацией по помещениям и планом квартиры.",
+  "cover": "assets/projects/3d-tours/x-tower-preview.jpg",
+  "gallery": [],
+  "tour_url": "tours/x-tower/index.html",
+  "order": 16
+}

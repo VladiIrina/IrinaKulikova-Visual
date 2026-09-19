@@ -1,0 +1,20 @@
+{
+  "id": "restaurant71abLA",
+  "title": "Ресторан 71ab LA",
+  "category": "interior",
+  "meta": "Интерьеры",
+  "location": "Ресторан · 3D-визуализация",
+  "description": "Атмосферный интерьер ресторана с панорамным видом на ночной город, выразительным геометричным потолком, тёплым деревом, латунными деталями и камерной зоной бара и винного хранения.",
+  "cover": "assets/projects/interior-visualization/restaurant-71ab-la/frame-01.webp",
+  "gallery": [
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-01.webp",
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-02.webp",
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-03.webp",
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-04.webp",
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-05.webp",
+    "assets/projects/interior-visualization/restaurant-71ab-la/frame-06.webp"
+  ],
+  "tour_url": "",
+  "order": 7,
+  "interior_type": "commercial"
+}

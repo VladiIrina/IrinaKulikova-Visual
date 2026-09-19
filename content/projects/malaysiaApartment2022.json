@@ -1,0 +1,28 @@
+{
+  "id": "malaysiaApartment2022",
+  "title": "Квартира в Малайзии 2022",
+  "category": "interior",
+  "interior_type": "residential",
+  "meta": "Интерьеры · 2022",
+  "location": "Малайзия · 2022",
+  "description": "Интерьерная визуализация квартиры в Малайзии: тёплая натуральная палитра, фактурное дерево, светлый камень, мягкая мебель и выразительные акценты в голубых и терракотовых оттенках.",
+  "cover": "assets/projects/interior-visualization/malaysia-apartment-2022/frame-01.webp",
+  "gallery": [
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-01.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-02.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-03.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-04.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-05.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-06.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-07.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-08.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-09.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-10.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-11.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-12.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-13.webp",
+    "assets/projects/interior-visualization/malaysia-apartment-2022/frame-14.webp"
+  ],
+  "tour_url": "",
+  "order": 5.5
+}

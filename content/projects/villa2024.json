@@ -1,0 +1,20 @@
+{
+  "id": "villa2024",
+  "title": "Визуализация виллы",
+  "category": "exterior",
+  "meta": "Визуализация экстерьера · 2024",
+  "location": "2024",
+  "description": "Архитектурная визуализация современной виллы в природном ландшафте — экстерьеры, панорамное остекление, терраса и окружающая территория.",
+  "cover": "assets/projects/exterior-visualization/villa-2024/frame-01.jpg",
+  "gallery": [
+    "assets/projects/exterior-visualization/villa-2024/frame-01.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-02.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-03.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-04.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-05.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-06.jpg",
+    "assets/projects/exterior-visualization/villa-2024/frame-07.jpg"
+  ],
+  "tour_url": "",
+  "order": 11
+}

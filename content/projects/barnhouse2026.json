@@ -1,0 +1,16 @@
+{
+  "id": "barnhouse2026",
+  "title": "Визуализация дома в стиле Барнхаус",
+  "category": "exterior",
+  "meta": "Визуализация экстерьера · 2026",
+  "location": "2026",
+  "description": "Экстерьер современного загородного дома в стиле Барнхаус: натуральное дерево, тёмная металлическая кровля, панорамное остекление и выразительная архитектура в окружении соснового леса.",
+  "cover": "assets/projects/exterior-visualization/barnhouse-2026/frame-01.jpg",
+  "gallery": [
+    "assets/projects/exterior-visualization/barnhouse-2026/frame-01.jpg",
+    "assets/projects/exterior-visualization/barnhouse-2026/frame-02.jpg",
+    "assets/projects/exterior-visualization/barnhouse-2026/frame-03.jpg"
+  ],
+  "tour_url": "",
+  "order": 12
+}

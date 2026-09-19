@@ -1,0 +1,12 @@
+{
+  "id": "jigit",
+  "title": "ЖК «Джигит»",
+  "category": "tour",
+  "meta": "3D-тур · 2026",
+  "location": "2026",
+  "description": "Интерактивный 360° тур квартиры с панорамами гостиной, кухни, спален, ванной, гардероба, прихожей и коридора, а также планом квартиры.",
+  "cover": "assets/projects/3d-tours/jigit/preview.jpg",
+  "gallery": [],
+  "tour_url": "tours/jigit/index.html",
+  "order": 14
+}

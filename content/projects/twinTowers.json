@@ -1,0 +1,12 @@
+{
+  "id": "twinTowers",
+  "title": "ЖК «Башни Близнецы»",
+  "category": "tour",
+  "meta": "3D-тур · 2026",
+  "location": "г. Грозный · 2026",
+  "description": "Интерактивный 360° тур квартиры с навигацией между помещениями, планом квартиры и отдельными панорамными точками.",
+  "cover": "assets/projects/3d-tours/twin-towers-preview.jpg",
+  "gallery": [],
+  "tour_url": "tours/twin-towers-2026/index.html",
+  "order": 15
+}

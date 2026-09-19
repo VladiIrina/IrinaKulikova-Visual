@@ -1,0 +1,19 @@
+{
+  "id": "musicHallMurmansk2026",
+  "title": "Музыкальный зал в МДОУ г.Мурманск 2026",
+  "category": "interior",
+  "interior_type": "commercial",
+  "meta": "Коммерческие интерьеры · 2026",
+  "location": "г. Мурманск · 2026",
+  "description": "Фотореалистичная визуализация музыкального зала в МДОУ: светлый интерьер для детских занятий и мероприятий, мягкая пастельная палитра, сценическая зона, акустическое оборудование и декоративная графика с морской тематикой.",
+  "cover": "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-01.webp",
+  "gallery": [
+    "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-01.webp",
+    "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-02.webp",
+    "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-03.webp",
+    "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-04.webp",
+    "assets/projects/interior-visualization/music-hall-murmansk-2026/frame-05.webp"
+  ],
+  "tour_url": "",
+  "order": 20
+}

@@ -1,0 +1,20 @@
+{
+  "id": "engels",
+  "title": "Визуализация квартиры",
+  "category": "interior",
+  "meta": "Интерьеры · 2026",
+  "location": "г. Энгельс · ЖК «Новый город»",
+  "description": "Современный интерьер с графитовой палитрой, натуральным деревом, выразительной фактурой камня и мягким сценарным освещением.",
+  "cover": "assets/projects/engels-new-city/frame-01.jpg",
+  "gallery": [
+    "assets/projects/engels-new-city/frame-01.jpg",
+    "assets/projects/engels-new-city/frame-05.jpg",
+    "assets/projects/engels-new-city/frame-09.jpg",
+    "assets/projects/engels-new-city/frame-13.jpg",
+    "assets/projects/engels-new-city/frame-17.jpg",
+    "assets/projects/engels-new-city/frame-19.jpg"
+  ],
+  "tour_url": "",
+  "order": 2,
+  "interior_type": "residential"
+}

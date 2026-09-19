@@ -1,0 +1,22 @@
+{
+  "id": "medicalCenterGatchina2025",
+  "title": "Медицинский центр г. Гатчина 2025",
+  "category": "interior",
+  "interior_type": "commercial",
+  "meta": "Коммерческие интерьеры · 2025",
+  "location": "г. Гатчина · 2025",
+  "description": "Фотореалистичная визуализация медицинского центра: светлый интерьер с натуральной каменной фактурой, глубокими синими акцентами, терраццо, мягкой мебелью и продуманным навигационным оформлением.",
+  "cover": "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-01.webp",
+  "gallery": [
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-01.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-02.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-03.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-04.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-05.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-06.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-07.webp",
+    "assets/projects/interior-visualization/medical-center-gatchina-2025/medical-center-08.webp"
+  ],
+  "tour_url": "",
+  "order": 9
+}

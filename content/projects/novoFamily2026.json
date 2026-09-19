@@ -1,0 +1,24 @@
+{
+  "id": "novoFamily2026",
+  "title": "ЖК «Ново-Фамильный»",
+  "category": "interior",
+  "meta": "Интерьеры · 2026",
+  "location": "г. Уфа · 2026",
+  "description": "Визуализация интерьера квартиры в современном тёплом стиле: натуральное дерево, мягкие нейтральные оттенки, продуманное освещение и атмосфера спокойного жилого пространства.",
+  "cover": "assets/projects/interior-visualization/novo-family-ufa-2026/frame-01.webp",
+  "gallery": [
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-01.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-02.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-03.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-04.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-05.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-06.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-07.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-08.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-09.webp",
+    "assets/projects/interior-visualization/novo-family-ufa-2026/frame-10.webp"
+  ],
+  "tour_url": "",
+  "order": 1,
+  "interior_type": "residential"
+}

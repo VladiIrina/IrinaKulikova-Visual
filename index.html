@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ирина Куликова — 3D-визуализация</title>
+  <meta name="description" content="Ирина Куликова — профессиональный 3D-визуализатор. Интерьеры, экстерьеры, предметы и декор, анимации и 3D-туры.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="#top">Ирина Куликова<span>3D VISUALIZATION</span></a>
+  <nav>
+    <a href="#portfolio">Работы</a>
+    <a href="#services">Услуги</a>
+    <a href="#pricing">Стоимость</a>
+    <a href="#about">Обо мне</a>
+    <a href="#documents">Документы</a>
+    <a href="#contacts">Контакты</a>
+  </nav>
+  <a class="header-cta" href="mailto:kulikova_irina90@mail.ru">Обсудить проект</a>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">3D visualizer · 3D artist</p>
+    <h1>Показываю,<br><em>как будет.</em></h1>
+    <p class="lead">Фотореалистичная визуализация интерьеров, экстерьеров и предметов — до момента реализации.</p>
+    <div class="hero-actions">
+      <a class="button dark" href="#portfolio">Смотреть работы</a>
+      <a class="text-link" href="mailto:kulikova_irina90@mail.ru">Написать мне ↗</a>
+    </div>
+  </div>
+  <div class="hero-photo-wrap">
+    <div class="hero-photo">
+      <img src="assets/portrait-hero.jpg" alt="Ирина Куликова">
+    </div>
+    <div class="hero-note">INTERIOR · EXTERIOR · PRODUCT</div>
+  </div>
+</section>
+
+<section class="statement">
+  <p class="eyebrow">Мой подход</p>
+  <div class="statement-text">Визуализация — это не просто красивый кадр. Это возможность увидеть идею заранее, принять решения увереннее и сэкономить время и деньги до начала реализации.</div>
+</section>
+
+<section id="portfolio" class="portfolio">
+  <div class="section-head">
+    <div>
+      <p class="eyebrow">Selected work</p>
+      <h2>Портфолио</h2>
+    </div>
+    <p class="section-intro">Интерьеры разделены на жилые и коммерческие; отдельно представлены экстерьеры, предметы, анимация и интерактивные 3D-туры.</p>
+  </div>
+
+
+  <div class="portfolio-filters" role="tablist" aria-label="Категории портфолио">
+    <button class="filter active" type="button" data-filter="all">Все</button>
+    <button class="filter" type="button" data-filter="interior">Интерьеры</button>
+    <button class="filter" type="button" data-filter="exterior">Экстерьеры</button>
+    <button class="filter" type="button" data-filter="furniture">Предметы</button>
+    <button class="filter" type="button" data-filter="animation">Анимация</button>
+    <button class="filter" type="button" data-filter="tour">3D-туры</button>
+  </div>
+
+  <div class="portfolio-subfilters" hidden aria-label="Подкатегории интерьеров">
+    <button class="filter active" type="button" data-filter="interior">Все интерьеры</button>
+    <button class="filter" type="button" data-filter="residential">Жилые интерьеры</button>
+    <button class="filter" type="button" data-filter="commercial">Коммерческие интерьеры</button>
+  </div>
+
+  <div class="portfolio-grid" id="portfolio-grid">
+    <div class="portfolio-loading" id="portfolio-loading">Загружаю проекты…</div>
+  </div>
+  <p class="portfolio-note">Нажмите на проект, чтобы открыть всю галерею.</p>
+
+  <div class="gallery-lightbox" id="project-lightbox" aria-hidden="true">
+    <button class="gallery-close" type="button" aria-label="Закрыть">×</button>
+    <button class="gallery-prev" type="button" aria-label="Предыдущий кадр">‹</button>
+    <figure>
+      <img id="gallery-image" src="" alt="">
+      <figcaption id="gallery-caption"></figcaption>
+    </figure>
+    <button class="gallery-next" type="button" aria-label="Следующий кадр">›</button>
+  </div>
+</section>
+
+<section id="services" class="services">
+  <div class="section-head">
+    <div><p class="eyebrow">What I do</p><h2>Услуги</h2></div>
+  </div>
+  <div class="service-list">
+    <div class="service"><span>01</span><h3>Интерьер</h3><p>Фотореалистичные изображения будущего пространства: материалы, свет, мебель, декор и атмосфера.</p></div>
+    <div class="service"><span>02</span><h3>Экстерьер</h3><p>Архитектурная визуализация зданий, частных домов и коммерческих объектов в окружении.</p></div>
+    <div class="service"><span>03</span><h3>Модели мебели</h3><p>3D-моделирование мебели и предметов интерьера: модели для каталогов, визуализаций и презентаций.</p></div>
+    <div class="service"><span>04</span><h3>Анимация</h3><p>Динамичная подача проекта, которая помогает показать пространство, сценарии и детали.</p></div>
+    <div class="service"><span>05</span><h3>3D-тур</h3><p>Интерактивная прогулка по проекту с возможностью самостоятельно исследовать пространство.</p></div>
+  </div>
+</section>
+
+<section id="pricing" class="pricing">
+  <div class="section-head pricing-head">
+    <div>
+      <p class="eyebrow">Для дизайна интерьера</p>
+      <h2>Стоимость<br><em>визуализации</em></h2>
+    </div>
+    <p class="section-intro">Стоимость архитектурной визуализации и моделирования определяется после ознакомления с ТЗ. Точная цена зависит от объёма, сложности моделирования, количества ракурсов и состава работ.</p>
+  </div>
+
+  <div class="pricing-main">
+    <article class="price-card price-card-main">
+      <div class="price-card-top"><span>01</span><span>Интерьер</span></div>
+      <h3>Визуализация интерьера</h3>
+      <p class="price-note">3–5 ракурсов на помещение</p>
+      <div class="price-value">от 650 <small>₽/м²</small></div>
+      <div class="price-list">
+        <div><span>Помещение до 10 м²</span><strong>7 000 ₽</strong></div>
+        <div><span>Коммерческие помещения</span><strong>от 600 ₽/м²</strong></div>
+        <div><span>3D-тур по помещению</span><strong>от 2 500 ₽</strong></div>
+        <div><span>Анимация в интерьере</span><strong>от 5 000 ₽</strong></div>
+      </div>
+      <p class="price-detail">Для коммерческих помещений стоимость зависит от площади и того, какие именно помещения необходимо визуализировать. Стоимость анимации зависит от длительности видео. Размер кадра: 1280×960 или 1920×1080.</p>
+    </article>
+
+    <div class="pricing-side">
+      <article class="price-info-card">
+        <p class="price-label">Сроки исполнения</p>
+        <h3>2–3 рабочих дня</h3>
+        <p>На помещение для черновых рендеров. Окончательные сроки зависят от сложности моделирования и количества правок.</p>
+      </article>
+      <article class="price-info-card price-info-olive">
+        <p class="price-label">В стоимость входят</p>
+        <ul>
+          <li>2 круга незначительных правок — не более 30% от работы.</li>
+          <li>Изменение цвета, перестановка мебели и другие небольшие корректировки.</li>
+          <li>Простое моделирование и использование собственной базы моделей.</li>
+          <li><strong>Close-up — в подарок.</strong></li>
+        </ul>
+      </article>
+    </div>
+  </div>
+
+  <div class="pricing-bottom">
+    <div class="pricing-extra">
+      <p class="price-label">Дополнительно оплачиваются</p>
+      <ul>
+        <li>PRO-модели.</li>
+        <li>Моделирование мебели и декора, которых нет в стоках моделей, либо мебели под заказ.</li>
+        <li>Крупные правки, требующие дополнительного моделирования, изменения геометрии помещения и т. д. — <strong>20% от стоимости проекта.</strong></li>
+        <li>Дополнительные ракурсы к помещению, если они не оговорены заранее — <strong>600 ₽ за ракурс.</strong></li>
+      </ul>
+    </div>
+    <div class="pricing-cta">
+      <span>Перед началом работы</span>
+      <strong>Требуется подробное ТЗ</strong>
+      <p><strong>Стоимость архитектурной визуализации и моделирования определяется после ознакомления с ТЗ.</strong></p>
+      <a class="button" href="#documents">Подготовить ТЗ →</a>
+    </div>
+  </div>
+</section>
+
+<section id="about" class="about">
+  <div class="about-photo">
+    <img src="assets/portrait-close.jpg" alt="Ирина Куликова — портрет">
+  </div>
+  <div class="about-copy">
+    <p class="eyebrow">About Irina</p>
+    <h2>Куликова<br><em>Ирина</em></h2>
+    <div class="about-text">
+      <p>Я профессиональный 3D-визуализатор. А началось всё с любви к рисованию: ещё в детстве я любила рисовать и перерисовывать интерьеры из специализированных журналов.</p>
+      <p>Позже я получила образование в сфере дизайна интерьера и прошла несколько онлайн-школ по 3D-визуализации. Так увлечение превратилось в профессию, в которой мне особенно нравится соединять эстетику, точность и техническую работу с 3D.</p>
+      <p>Сегодня я помогаю увидеть продукт ещё до момента реализации. Это позволяет заранее оценить идею, материалы, свет и детали — и тем самым сэкономить время и деньги на этапе воплощения.</p>
+      <p>Работаю с интерьерами, экстерьерами, предметами и декором, а также создаю анимации и 3D-туры.</p>
+    </div>
+  </div>
+</section>
+
+<section class="personal">
+  <div class="personal-copy">
+    <p class="eyebrow">A little more personal</p>
+    <h2>Визуализация<br><em>с характером.</em></h2>
+    <p>Мне важно не просто показать пространство, а передать его настроение, логику и ощущение будущего места. Поэтому в работе внимание к деталям для меня так же важно, как общая композиция.</p>
+  </div>
+  <div class="personal-gallery">
+    <img src="assets/portrait-editorial.jpg" alt="Ирина Куликова">
+    <img src="assets/portrait-chair.jpg" alt="Ирина Куликова">
+  </div>
+</section>
+
+<section class="tour">
+  <div>
+    <p class="eyebrow">Interactive</p>
+    <h2>3D-туры<br><em>по проектам</em></h2>
+  </div>
+  <div class="tour-copy">
+    <p>Здесь можно разместить ссылки или встроенные HTML-коды ваших интерактивных 3D-туров. Клиент сможет открыть проект и самостоятельно пройтись по пространству.</p>
+    <a class="button outline" href="#contacts">Связаться →</a>
+  </div>
+</section>
+
+<section id="documents" class="documents">
+  <div class="section-head documents-head">
+    <div>
+      <p class="eyebrow">Для заказчиков</p>
+      <h2>Документы<br><em>для работы</em></h2>
+    </div>
+    <p class="section-intro">Подготовила материалы, которые помогут быстро собрать исходные данные, согласовать требования и организовать работу над визуализацией.</p>
+  </div>
+
+  <div class="documents-grid">
+    <article class="document-card document-card-featured">
+      <div class="document-top"><span class="document-number">01</span><span class="document-icon">ТЗ</span></div>
+      <div class="document-copy">
+        <p class="document-kicker">Техническое задание · Интерьер</p>
+        <h3>Шаблон ТЗ для визуализации интерьера</h3>
+        <p>Чек-лист исходных материалов: планировки, мудборд, обмеры, рабочие чертежи, материалы, мебель, декор, вид из окна и требования к финальным рендерам.</p>
+      </div>
+      <a class="document-link" href="docs/Шаблон_ТЗ_для_визуализации_интерьера.pdf" download><span>Скачать документ</span><b>↗</b></a>
+    </article>
+
+    <article class="document-card">
+      <div class="document-top"><span class="document-number">02</span><span class="document-icon">ТЗ</span></div>
+      <div class="document-copy">
+        <p class="document-kicker">Техническое задание · Экстерьер</p>
+        <h3>Шаблон ТЗ для визуализации экстерьера</h3>
+        <p>Готовая форма для сбора моделей и чертежей, материалов, локации, окружения, ракурсов, сезона, освещения и технических параметров изображений.</p>
+      </div>
+      <a class="document-link" href="docs/Шаблон_ТЗ_для_визуализации_экстерьера.docx" download><span>Скачать документ</span><b>↗</b></a>
+    </article>
+
+    <article class="document-card">
+      <div class="document-top"><span class="document-number">03</span><span class="document-icon">PDF</span></div>
+      <div class="document-copy">
+        <p class="document-kicker">Организация проекта</p>
+        <h3>Этапы работы</h3>
+        <p>Как проходит проект: обсуждение задачи, подготовка ТЗ, оценка и аванс, черновые рендеры, два круга правок, согласование и передача финальных изображений.</p>
+      </div>
+      <a class="document-link" href="docs/Этапы_работы_по_проекту.docx" download><span>Скачать документ</span><b>↗</b></a>
+    </article>
+
+    <article class="document-card">
+      <div class="document-top"><span class="document-number">04</span><span class="document-icon">DOC</span></div>
+      <div class="document-copy">
+        <p class="document-kicker">Документ для проекта</p>
+        <h3>Договор на оказание услуг</h3>
+        <p>Шаблон договора на разработку 3D-визуализаций с описанием предмета работ, этапов, оплаты, сроков, прав и обязанностей сторон.</p>
+      </div>
+      <a class="document-link" href="docs/Договор_на_оказание_услуг_по_разработке_3д_визуализаций.docx" download><span>Скачать документ</span><b>↗</b></a>
+    </article>
+  </div>
+
+  <div class="documents-note"><span>04 документа</span><span>Материалы для согласования проекта</span><a href="mailto:Kulikova_irina90@mail.ru">Есть вопросы по ТЗ? Написать →</a></div>
+</section>
+
+</main>
+
+<footer>
+  <span>© Ирина Куликова</span>
+  <span>3D Visualization · Interior · Exterior · Product</span>
+</footer>
+<script src="script.js"></script>
+
+<section class="contact-details" id="contacts">
+  <div class="contact-details-inner">
+    <div>
+      <span class="eyebrow">Контакты</span>
+      <h2>Связаться со мной</h2>
+    </div>
+    <div class="contact-links">
+      <a href="mailto:kulikova_irina90@mail.ru">Email · kulikova_irina90@mail.ru</a>
+      <a href="https://instagram.com/irina_3ds" target="_blank" rel="noopener">@irina_3ds · Instagram</a>
+      <a href="https://t.me/Vis3d_Irina" target="_blank" rel="noopener">@Vis3d_Irina · Telegram</a>
+      <a href="https://www.behance.net/KulikovaVis" target="_blank" rel="noopener">KulikovaVis · Behance</a>
+      <a href="tel:+79961025166">+7 996 102-51-66 · Телефон</a>
+      <a href="https://wa.me/79961025166" target="_blank" rel="noopener">WhatsApp · +7 996 102-51-66</a>
+      <a href="https://max.ru/" target="_blank" rel="noopener">MAX · +7 996 102-51-66</a>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

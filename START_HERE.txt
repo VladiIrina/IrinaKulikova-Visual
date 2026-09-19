@@ -1,0 +1,8 @@
+START HERE
+
+1. Double-click START_SITE.bat
+2. Keep the black PowerShell window open.
+3. Open http://localhost:8000
+4. Open the Altair project and click the 3D tour.
+
+No Python installation is required.

@@ -1,0 +1,23 @@
+{
+  "id": "furnitureModels",
+  "title": "Модели мебели и предметов",
+  "category": "furniture",
+  "meta": "Модели мебели · 3D modeling",
+  "location": "3D modeling",
+  "description": "Коллекция 3D-моделей мебели и интерьерных предметов: стулья, столы, кухонные модули и светильники.",
+  "cover": "assets/projects/object-modeling/furniture-models/frame-01.jpg",
+  "gallery": [
+    "assets/projects/object-modeling/furniture-models/frame-01.jpg",
+    "assets/projects/object-modeling/furniture-models/frame-02.jpg",
+    "assets/projects/object-modeling/furniture-models/frame-03.webp",
+    "assets/projects/object-modeling/furniture-models/frame-04.webp",
+    "assets/projects/object-modeling/furniture-models/frame-05.webp",
+    "assets/projects/object-modeling/furniture-models/frame-06.webp",
+    "assets/projects/object-modeling/furniture-models/frame-07.webp",
+    "assets/projects/object-modeling/furniture-models/frame-08.webp",
+    "assets/projects/object-modeling/furniture-models/frame-09.webp",
+    "assets/projects/object-modeling/furniture-models/frame-10.webp"
+  ],
+  "tour_url": "",
+  "order": 13
+}

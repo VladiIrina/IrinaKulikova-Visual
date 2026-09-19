@@ -1,0 +1,12 @@
+{
+  "id": "pervomaysky",
+  "title": "ЖК «Первомайский»",
+  "category": "tour",
+  "meta": "3D-тур · 2026",
+  "location": "г. Грозный · 2026",
+  "description": "Интерактивный 3D-тур по интерьеру квартиры с навигацией по помещениям.",
+  "cover": "assets/projects/3d-tours/pervomaysky-preview.jpg",
+  "gallery": [],
+  "tour_url": "tours/pervomaysky/index.html",
+  "order": 18
+}

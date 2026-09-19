@@ -1,0 +1,16 @@
+{
+  "id": "villa2025",
+  "title": "Визуализация виллы",
+  "category": "exterior",
+  "meta": "Визуализация экстерьера · 2025",
+  "location": "2025",
+  "description": "Архитектурная визуализация современной виллы в природном окружении — фасады, ландшафт, террасы и архитектурные детали проекта.",
+  "cover": "assets/projects/exterior-visualization/villa-2025/frame-01.jpg",
+  "gallery": [
+    "assets/projects/exterior-visualization/villa-2025/frame-01.jpg",
+    "assets/projects/exterior-visualization/villa-2025/frame-02.jpg",
+    "assets/projects/exterior-visualization/villa-2025/frame-03.jpg"
+  ],
+  "tour_url": "",
+  "order": 10
+}

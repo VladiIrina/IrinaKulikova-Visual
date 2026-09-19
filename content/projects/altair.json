@@ -1,0 +1,12 @@
+{
+  "id": "altair",
+  "title": "ЖК «Альтаир»",
+  "category": "tour",
+  "meta": "3D-тур · 2025",
+  "location": "г. Грозный · 2025",
+  "description": "Интерактивный 3D-тур проекта ЖК «Альтаир» с несколькими панорамными точками и переходами между помещениями.",
+  "cover": "assets/projects/3d-tours/altair-preview.jpg",
+  "gallery": [],
+  "tour_url": "tours/altair/index.html",
+  "order": 17
+}

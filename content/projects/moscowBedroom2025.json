@@ -1,0 +1,17 @@
+{
+  "id": "moscowBedroom2025",
+  "title": "Визуализация спальни",
+  "category": "interior",
+  "meta": "Интерьеры",
+  "location": "г. Москва · 2025",
+  "description": "Визуализация спальни в спокойной нейтральной палитре: классические стеновые панели, мягкий текстиль, натуральный камень, тёплое дерево и выразительные акцентные детали.",
+  "cover": "assets/projects/interior-visualization/moscow-bedroom-2025/frame-01.jpg",
+  "gallery": [
+    "assets/projects/interior-visualization/moscow-bedroom-2025/frame-01.jpg",
+    "assets/projects/interior-visualization/moscow-bedroom-2025/frame-02.jpg",
+    "assets/projects/interior-visualization/moscow-bedroom-2025/frame-03.jpg"
+  ],
+  "tour_url": "",
+  "order": 8,
+  "interior_type": "residential"
+}

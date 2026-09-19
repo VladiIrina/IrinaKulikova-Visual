@@ -1,0 +1,30 @@
+{
+  "id": "ufaApartment2026",
+  "title": "Квартира г. Уфа",
+  "category": "interior",
+  "meta": "Интерьеры · 2026",
+  "location": "г. Уфа · 2026",
+  "description": "Интерьерная визуализация квартиры в Уфе: тёплая природная палитра, натуральное дерево, глубокие зелёные и бордовые акценты, выразительный свет и продуманные детали.",
+  "cover": "assets/projects/interior-visualization/ufa-apartment-2026/frame-13.jpg",
+  "gallery": [
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-13.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-14.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-01.webp",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-10.webp",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-11.webp",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-12.webp",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-09.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-07.webp",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-15.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-16.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-02.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-03.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-04.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-05.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-06.jpg",
+    "assets/projects/interior-visualization/ufa-apartment-2026/frame-08.jpg"
+  ],
+  "tour_url": "",
+  "order": 4,
+  "interior_type": "residential"
+}
