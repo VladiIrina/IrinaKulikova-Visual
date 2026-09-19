@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: VladiIrina/IrinaKulikova-Visual
   branch: main
 
 media_folder: assets/uploads
