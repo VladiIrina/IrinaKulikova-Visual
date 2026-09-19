@@ -35,10 +35,23 @@
     "cover": "assets/projects/engels-new-city/frame-01.jpg",
     "gallery": [
       "assets/projects/engels-new-city/frame-01.jpg",
+      "assets/projects/engels-new-city/frame-02.jpg",
+      "assets/projects/engels-new-city/frame-03.jpg",
+      "assets/projects/engels-new-city/frame-04.jpg",
       "assets/projects/engels-new-city/frame-05.jpg",
+      "assets/projects/engels-new-city/frame-06.jpg",
+      "assets/projects/engels-new-city/frame-07.jpg",
+      "assets/projects/engels-new-city/frame-08.jpg",
       "assets/projects/engels-new-city/frame-09.jpg",
+      "assets/projects/engels-new-city/frame-10.jpg",
+      "assets/projects/engels-new-city/frame-11.jpg",
+      "assets/projects/engels-new-city/frame-12.jpg",
       "assets/projects/engels-new-city/frame-13.jpg",
+      "assets/projects/engels-new-city/frame-14.jpg",
+      "assets/projects/engels-new-city/frame-15.jpg",
+      "assets/projects/engels-new-city/frame-16.jpg",
       "assets/projects/engels-new-city/frame-17.jpg",
+      "assets/projects/engels-new-city/frame-18.jpg",
       "assets/projects/engels-new-city/frame-19.jpg"
     ],
     "animation_video": "",
@@ -158,6 +171,25 @@
     "order": 5.5
   },
   {
+    "id": "minprosveshcheniya2026",
+    "title": "Концепт визуализации Министерства Просвещения Российской Федерации",
+    "category": "interior",
+    "interior_type": "commercial",
+    "meta": "КОММЕРЧЕСКИЕ ИНТЕРЬЕРЫ · 2026",
+    "location": "Российская Федерация · март 2026",
+    "description": "Концепт архитектурной визуализации конференц-зала Министерства Просвещения Российской Федерации. Проект выполнен в марте 2026 года.",
+    "cover": "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-01.jpg",
+    "gallery": [
+      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-01.jpg",
+      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-02.jpg",
+      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-03.jpg",
+      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-04.jpg"
+    ],
+    "animation_video": "",
+    "tour_url": "",
+    "order": 5.9
+  },
+  {
     "id": "officePoland",
     "title": "Офис",
     "category": "interior",
@@ -201,6 +233,26 @@
     "order": 7.0
   },
   {
+    "id": "xTowerGrozny2025",
+    "title": "Архитектурная визуализация ЖК «X-TOWER»",
+    "category": "exterior",
+    "interior_type": "",
+    "meta": "АРХИТЕКТУРНАЯ ВИЗУАЛИЗАЦИЯ · 2025",
+    "location": "г. Грозный · 2025",
+    "description": "Архитектурная визуализация ЖК «X-TOWER» в Грозном: фасады, городское окружение, благоустройство, вечерний сценарий и панорамный вид с высоты.",
+    "cover": "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-01.jpg",
+    "gallery": [
+      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-01.jpg",
+      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-02.jpg",
+      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-03.jpg",
+      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-04.jpg",
+      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-05.jpg"
+    ],
+    "animation_video": "",
+    "tour_url": "",
+    "order": 8.0
+  },
+  {
     "id": "moscowBedroom2025",
     "title": "Визуализация спальни",
     "category": "interior",
@@ -236,7 +288,7 @@
     ],
     "animation_video": "",
     "tour_url": "",
-    "order": 14.0
+    "order": 9.0
   },
   {
     "id": "medicalCenterGatchina2025",
@@ -465,44 +517,5 @@
     "animation_video": "",
     "tour_url": "",
     "order": 20.0
-  },
-  {
-    "id": "xTowerGrozny2025",
-    "title": "ЖК «X-TOWER»",
-    "category": "exterior",
-    "interior_type": "",
-    "meta": "Архитектурная визуализация · 2025",
-    "location": "г. Грозный · 2025",
-    "description": "Архитектурная визуализация ЖК «X-TOWER» в Грозном: фасады, городское окружение, благоустройство, вечерний сценарий и панорамный вид с высоты.",
-    "cover": "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-01.jpg",
-    "gallery": [
-      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-01.jpg",
-      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-02.jpg",
-      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-03.jpg",
-      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-04.jpg",
-      "assets/projects/exterior-visualization/x-tower-grozny-2025/x-tower-grozny-2025-05.jpg"
-    ],
-    "animation_video": "",
-    "tour_url": "",
-    "order": 8.0
-  },
-  {
-    "id": "minprosveshcheniya2026",
-    "title": "Концепт визуализации Министерства Просвещения Российской Федерации",
-    "category": "interior",
-    "interior_type": "commercial",
-    "meta": "КОММЕРЧЕСКИЕ ИНТЕРЬЕРЫ · 2026",
-    "location": "Российская Федерация · март 2026",
-    "description": "Концепт архитектурной визуализации конференц-зала Министерства Просвещения Российской Федерации. Проект выполнен в марте 2026 года.",
-    "cover": "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-01.jpg",
-    "gallery": [
-      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-01.jpg",
-      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-02.jpg",
-      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-03.jpg",
-      "assets/projects/interiors/commercial/minprosveshcheniya-2026/minprosveshcheniya-2026-04.jpg"
-    ],
-    "animation_video": "",
-    "tour_url": "",
-    "order": 5.9
   }
 ]
